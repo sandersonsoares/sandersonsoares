@@ -9,7 +9,6 @@
 
 <span align="center">
   
-[![Website Badge](https://img.shields.io/badge/Website-blueviolet?style=flat-square&logo=google-chrome&logoColor=white)](https://sandersonsoares.com.br/)
 [![Twitter Badge](https://img.shields.io/badge/-@sandersonsoares-blueviolet?logo=twitter&logoColor=white&labelColor=434a4e&style=flat-square)](https://twitter.com/sandersonsoares)
 [![Instagram Badge](https://img.shields.io/badge/-@sandersonsoares-blueviolet?logo=instagram&logoColor=white&labelColor=434a4e&style=flat-square)](https://instagram.com/sandersonsoares)
 [![Telegram Badge](https://img.shields.io/badge/-@sandersonsoaresm-blueviolet?logo=telegram&logoColor=white&labelColor=434a4e&style=flat-square)](https://t.me/sandersonsoaresm)
