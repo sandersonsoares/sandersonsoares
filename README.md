@@ -10,4 +10,4 @@
 
 </span>
 
-Front-End Developer at Invillia, Systems Analyst at UNIFIP, Bachelor of Information Systems at UNIFIP. He has worked on projects for Brazilian startups with a focus on front-end development. Today he focuses on Javascript technologies for web and mobile development.
+Front-End Developer Sr at CI&T, Systems Analyst at UNIFIP, Bachelor of Information Systems at UNIFIP. He has worked on projects for Brazilian startups with a focus on front-end development. Today he focuses on Javascript technologies for web and mobile development.
