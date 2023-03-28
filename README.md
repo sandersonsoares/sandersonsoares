@@ -1,9 +1,3 @@
-
-
-<p align="center">
-  <img src="https://sandersonsoares.com.br/assets/images/logo.svg" alt="logo"/>
-</p>
-
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">, I'm Sanderson Soares</h1>
 <p align="center">A passionate front-end developer who lives in the interior of Paraíba 🏜</p>
 
