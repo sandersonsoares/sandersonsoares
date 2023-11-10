@@ -1,13 +1,33 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">, I'm Sanderson Soares</h1>
+<p align="center">Hi 👋, I'm Sanderson Soares</p>
+
 <p align="center">A passionate front-end developer who lives in the interior of Paraíba 🏜</p>
 
-<span align="center">
+<p align="center">
+ <a href="https://x.com/sandersonsoares">
+  <img src="https://img.shields.io/badge/-@sandersonsoares-blueviolet?logo=x&logoColor=white&labelColor=#c4a7e7&style=flat-square" alt="twitter badge">
+ </a>
+   <a href="https://www.linkedin.com/in/sandersonsoares/">
+  <img src="https://img.shields.io/badge/-@sandersonsoares-blueviolet?logo=linkedin&logoColor=white&labelColor=#c4a7e7&style=flat-square" alt="linkedin badge">
+ </a>
+  </a>
+   <a href="https://dev.to/sandersonsoares">
+  <img src="https://img.shields.io/badge/-@sandersonsoares-blueviolet?logo=dev.to&logoColor=white&labelColor=#c4a7e7&style=flat-square" alt="dev.to badge">
+ </a>
   
-[![Twitter Badge](https://img.shields.io/badge/-@sandersonsoares-blueviolet?logo=twitter&logoColor=white&labelColor=434a4e&style=flat-square)](https://twitter.com/sandersonsoares)
-[![Instagram Badge](https://img.shields.io/badge/-@sandersonsoares-blueviolet?logo=instagram&logoColor=white&labelColor=434a4e&style=flat-square)](https://instagram.com/sandersonsoares)
-[![Telegram Badge](https://img.shields.io/badge/-@sandersonsoaresm-blueviolet?logo=telegram&logoColor=white&labelColor=434a4e&style=flat-square)](https://t.me/sandersonsoaresm)
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blueviolet?logo=linkedin&logoColor=white&labelColor=434a4e&style=flat-square)](https://linkedin.com/in/sanderson-soares-marinho-da-costa-654773115)
+</p>
 
-</span>
+- 💻 Front-End Developer Sr at CI&T
+- 🖥 Systems Analyst at UNIFIP 
+- 🎓 Bachelor of Information Systems at UNIFIP. 
 
-Front-End Developer Sr at CI&T, Systems Analyst at UNIFIP, Bachelor of Information Systems at UNIFIP. He has worked on projects for Brazilian startups with a focus on front-end development. Today he focuses on Javascript technologies for web and mobile development.
+> Experienced developer in mobile and web applications, with extensive experience in Java and PHP. Currently, he focuses on JavaScript and TypeScript technologies, highlighting Node.js, Bun, React and Angular. Its versatility covers both the front-end and back-end, allowing the creation of integrated and innovative solutions. Demonstrating adaptive ability, stays up to date with the latest industry trends, ensuring valuable contributions to software development projects.
+
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+
+
