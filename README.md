@@ -4,14 +4,14 @@
 
 <p align="center">
  <a href="https://x.com/sandersonsoares">
-  <img src="https://img.shields.io/badge/-@sandersonsoares-blueviolet?logo=x&logoColor=white&labelColor=#c4a7e7&style=flat-square" alt="twitter badge">
+  <img src="https://img.shields.io/badge/-@sandersonsoares-blueviolet?logo=x&logoColor=white&labelColor=#cccccc&style=flat-square" alt="twitter badge">
  </a>
    <a href="https://www.linkedin.com/in/sandersonsoares/">
-  <img src="https://img.shields.io/badge/-@sandersonsoares-blueviolet?logo=linkedin&logoColor=white&labelColor=#c4a7e7&style=flat-square" alt="linkedin badge">
+  <img src="https://img.shields.io/badge/-@sandersonsoares-blueviolet?logo=linkedin&logoColor=white&labelColor=#cccccc&style=flat-square" alt="linkedin badge">
  </a>
   </a>
    <a href="https://dev.to/sandersonsoares">
-  <img src="https://img.shields.io/badge/-@sandersonsoares-blueviolet?logo=dev.to&logoColor=white&labelColor=#c4a7e7&style=flat-square" alt="dev.to badge">
+  <img src="https://img.shields.io/badge/-@sandersonsoares-blueviolet?logo=dev.to&logoColor=white&labelColor=#cccccc&style=flat-square" alt="dev.to badge">
  </a>
   
 </p>
